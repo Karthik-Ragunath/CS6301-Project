@@ -37,6 +37,20 @@ python inference.py
 
 --------------------------------
 
+# TRAINED MODEL
+
+Trained model is located in:
+`https://drive.google.com/drive/folders/1DAeYLMtmMXdzRHGvuuw8TLeVXJnkaYBb?usp=sharing`
+
+Download it into `object_detection_component` directory
+
+Since the size of this model is big, we are not adding it to zip file.
+
+After downloading, the model will present in the filepath:
+`object_detection_component/fasterrcnn_resnet50_fpn_custom.pth`
+
+--------------------------------
+
 # COLAB Notebook for training, inference and plotting the graphs
 
 ```
